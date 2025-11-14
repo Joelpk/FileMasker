@@ -29,6 +29,6 @@ Input File:
    ```bash
    Hello {replace with name}
 
-**Output File:**
+Output File:
      ```bash
      *********
