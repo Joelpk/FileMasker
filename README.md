@@ -19,3 +19,7 @@ It’s a beginner-friendly way to understand how file I/O operations and loops w
 1. Compile the program:
    ```bash
    gcc encrypt.c -o encrypt
+   
+2. Run the program
+   ```bash
+   ./starcrypt input.txt
