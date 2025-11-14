@@ -25,10 +25,10 @@ It’s a beginner-friendly way to understand how file I/O operations and loops w
    ./starcrypt input.txt
 
 ## 🧩 Example
-Input File:
+- Input File:
    ```bash
-   Hello {replace with name}
+   Hello username
 
-Output File:
+- Output File:
      ```bash
      *********
