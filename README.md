@@ -26,9 +26,9 @@ It’s a beginner-friendly way to understand how file I/O operations and loops w
 
 ## 🧩 Example
 **Input File:**
-     ```nginx
+     ```bash
      Hello robot
 
 **Output File:**
-     ```nginx
+     ```bash
      *********
