@@ -18,4 +18,4 @@ It’s a beginner-friendly way to understand how file I/O operations and loops w
 ## 📄 Usage
 1. Compile the program:
    ```bash
-   gcc starcrypt.c -o starcrypt
+   gcc encrypt.c -o encrypt
