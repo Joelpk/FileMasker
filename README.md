@@ -25,9 +25,9 @@ It’s a beginner-friendly way to understand how file I/O operations and loops w
    ./starcrypt input.txt
 
 ## 🧩 Example
-1. Compile the program:
+Input File:
    ```bash
-   gcc encrypt.c -o encrypt
+   Hello {replace with name}
 
 **Output File:**
      ```bash
