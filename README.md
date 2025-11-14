@@ -1,3 +1,21 @@
-# FileMasker
-A simple file obfuscation tool that replaces every character in a file with a customizable masking symbol 
-(e.g., *). Great for demonstrating basic file I/O and string manipulation in C.
+# FileMasker ⭐
+
+A simple C program that obfuscates the contents of a file by replacing every character with a customizable masking symbol (default: `*`).
+
+## ⚙️ Overview
+StarCrypt demonstrates file handling and character manipulation in C.  
+It’s a beginner-friendly way to understand how file I/O operations and loops work together in C programming.
+
+## 🧠 Features
+- Replace all file characters with a default `*` or any symbol of your choice  
+- Simple command-line interaction  
+- Great for practicing file I/O and data masking concepts
+
+## 🛠️ Technologies Used
+- **Language:** C  
+- **Compiler:** GCC or any standard C compiler  
+
+## 📄 Usage
+1. Compile the program:
+   ```bash
+   gcc starcrypt.c -o starcrypt
