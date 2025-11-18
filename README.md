@@ -22,7 +22,7 @@ It’s a beginner-friendly way to understand how file I/O operations and loops w
    
 2. Run the program
    ```bash
-   ./starcrypt input.txt
+   ./encrypt input.txt
 
 ## 🧩 Example
 - Input File:
